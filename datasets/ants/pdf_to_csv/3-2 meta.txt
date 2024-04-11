@@ -1,7 +1,0 @@
-Antlist InitialPosX InitialPosY ColonyArea AntLength MinX MinY MaxX MaxY
-Q NA NA 110432 78.1 80 0 598 386
-WG_ NA NA
-RYW NA NA
-YGG NA NA
-WWR NA NA
-___ NA NA
